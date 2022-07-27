@@ -1,2 +1,5 @@
 
 welcome to sepp lab
+and practice
+jira
+git
